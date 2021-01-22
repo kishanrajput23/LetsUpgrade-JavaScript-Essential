@@ -1,4 +1,5 @@
 # Day 1 Summary :
+<img src="https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day1/Javascript.png" alt="">
 
 **What is Javascript?**
 
@@ -19,8 +20,10 @@
 - A server is a global computer that connects other computers (clients) to provide resources or data or services through the internet.
 - The server may contain HTML, CSS, javascript, java, PHP, c#, python, etc., which holds your website code.
 - The domain name is the address to your website where people can open and see your website
+<img src="https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day1/Client%20Server%20Architecture.jpg" alt="">
 
 **DOM Manipulation:**
 - DOM – Document Object Model.
 - DOM is a tree structure of HTML.
 - Javascript is used to remove, replace, add, change objects. So javascript is meant to be DOM Manipulation language.
+<img align="center" src="https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day1/Dom_manipulation.gif" alt="" width="800" height="400">
