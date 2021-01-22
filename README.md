@@ -1,2 +1,2 @@
 # LetsUpgrade-JavaScript-Essential
-This repository contains all source code and study materials.
+<img src="https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day1/Javascript.png" alt="">
