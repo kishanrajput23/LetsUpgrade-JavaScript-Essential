@@ -19,7 +19,7 @@
 - If you want to create a website you should put the code on the server.
 - A server is a global computer that connects other computers (clients) to provide resources or data or services through the internet.
 - The server may contain HTML, CSS, javascript, java, PHP, c#, python, etc., which holds your website code.
-- The domain name is the address to your website where people can open and see your website
+- The domain name is the address to your website where people can open and see your website.
 <img src="https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day1/Client%20Server%20Architecture.jpg" alt="">
 
 **DOM Manipulation:**
