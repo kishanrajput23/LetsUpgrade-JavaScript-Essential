@@ -17,3 +17,11 @@
 - [Day 3 Lecture](https://youtu.be/mJSGplJt7qc)
 - [Day 3 Summary](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day3/README.md)
 - [Day 3 Assignments](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/tree/main/Day3/Day%203%20Assignments)
+
+
+# DAY 04 AGENDA 
+**Inbuilt functions  |  Objects  |  DOM Manipulation**
+- [Day 4 Lecture](https://youtu.be/s5hdL-IlsFg)
+- [Day 4 Summary](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day4/README.md)
+- [Day 4 Assignments](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/tree/main/Day4/Day%204%20Assignments)
+
