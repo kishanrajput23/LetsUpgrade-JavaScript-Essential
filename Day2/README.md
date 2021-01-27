@@ -32,40 +32,38 @@
 - Conditional statements are used to take decisions based on some conditions.
 - Conditional statements are if, if else, else if(multiple if statements)
 
-**if statement:**              
-Example:   
- var num=10;\
- &nbsp;&nbsp;&nbsp;&nbsp;if(num==10)\
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{\
- &nbsp;&nbsp;&nbsp;  Console.log(“JavaScript is amazing”);\
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+**if statement:**      
+
+Example:
+
+    var num=10;
+    if(num==10) {
+        Console.log(“JavaScript is amazing”);
+                }
  
  **if else statement:**
+ 
  Example:    
 
-var num=10;\
-&nbsp;if(num==10)\
- &nbsp;&nbsp;{\
-&nbsp;   Console.log(“JavaScript is amazing”);\
-&nbsp;&nbsp;&nbsp;&nbsp;}\
-else\
-&nbsp;&nbsp;{\
- &nbsp;&nbsp;Console.log(“JavaScript is awesome”);\
-&nbsp;&nbsp;}
+    var num=10;
+    if(num==10) {
+        Console.log(“JavaScript is amazing”);
+            }
+    else {
+        Console.log(“JavaScript is awesome”);
+       }
 
 **else if statement:** 
+
  Example:   
 
- var num=10;\
-&nbsp;if(num==10)\
-&nbsp;&nbsp;{\
-&nbsp; Console.log(“JavaScript is amazing”);\
-&nbsp;&nbsp;&nbsp;}\
-&nbsp;else if(num==12)\
-&nbsp; {\
- Console.log(“JavaScript is great”);\
-   }\
-&nbsp;else\
-&nbsp;   {\
-    Console.log(“JavaScript is awesome”);\
- &nbsp;&nbsp;}
+     var num=10;
+     if(num==10) {
+         Console.log(“JavaScript is amazing”); 
+         }
+     else if(num==12) {
+         Console.log(“JavaScript is great”);
+         }
+      else {
+         Console.log(“JavaScript is awesome”);
+         }
