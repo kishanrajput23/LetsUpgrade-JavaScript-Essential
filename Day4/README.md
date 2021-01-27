@@ -29,45 +29,46 @@ Example:
 - Object helps to store, use and arrange the data properly.
 - The window is the inbuilt parent object of all the properties and functions.
 
-Example :
+**Example :**
 
-window.alert();\
-window.location = “ url ”;
+    window.alert();\
+    window.location = “ url ”;
 
 - we can also create our own object.
 
-var object_name ={\
-  				property_name1 : value1,\
-				property_name2 : value2,\
-				………….\
-				} ;
+      var object_name ={\
+  			  property_name1 : value1,
+			  property_name2 : value2,
+				………….
+		      } ;
         
- Example:
+ **Example:**
 
-var user ={\
-          Name : "ironman",\
- 		  age : 34,\
- 		 powers : ["armour","intelligence","rich"], //array inside the object\
-          };\
-console.log ( user.name ) //ironman\
-console.log ( user.age ) //34\
-console.log ( user.power[1] ); //intelligence
+    var user ={
+              Name : "ironman",
+ 	      age : 34,
+ 	      powers : ["armour","intelligence","rich"], //array inside the object
+          };
+	  
+    console.log ( user.name ) //ironman
+    console.log ( user.age ) //34
+    console.log ( user.power[1] ); //intelligence
 
 - Objects can have objects inside them.
 
-Example:
+**Example:**
 
-var user ={\
-			Name : "ironman",\
- 			age : 34,\
- 			powers : ["armour","intelligence","rich"], //array inside the object\
- 		 };\
- 		 address : {\
-                     city : “ Mumbai ”,\
-					 pincode : “ 1234 ” ,\
-                    }\
-         };\
-console.log ( user.address.city ); //Mumbai
+    var user ={
+		Name : "ironman",
+ 		age : 34,
+ 		powers : ["armour","intelligence","rich"], //array inside the object
+ 	     };
+ 		address : {
+                        city : “ Mumbai ”,
+		            pincode : “ 1234 ” ,
+                        }
+             };\
+    console.log ( user.address.city ); //Mumbai
 
 **DOM Manipulation**
 - DOM is the tree structure of the HTML document. The browser understands the tree structure and provides us the output.
@@ -80,7 +81,7 @@ Example:   **document.getElementsByTagName (“ h1 “);**
 - We can also change the content of the element using the innerText property.
   Example:  let us assume that h1 element have **hello** as its value in html file.
 
-var ele = document.getElementsByTagName (“ h1 “);\ 
-console.log ( ele );   //hello\
-ele.innerText = “hii”;\
-console.log ( ele );   //hii\
+      var ele = document.getElementsByTagName (“ h1 “);
+      console.log ( ele );   //hello
+      ele.innerText = “hii”;
+      console.log ( ele );   //hii
