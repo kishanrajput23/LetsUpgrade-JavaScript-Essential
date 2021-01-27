@@ -28,7 +28,7 @@
 
 # DAY 05 AGENDA 
 **DOM Manipulation  |  Functions  |  Event Handling**
-- [Day 4 Lecture](https://youtu.be/75Qs2EqzSqc)
-- [Day 4 Summary](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day5/README.md)
-- [Day 4 Assignments](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/tree/main/Day5/Day%205%20Assignments)
+- [Day 5 Lecture](https://youtu.be/75Qs2EqzSqc)
+- [Day 5 Summary](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day5/README.md)
+- [Day 5 Assignments](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/tree/main/Day5/Day%205%20Assignments)
 
