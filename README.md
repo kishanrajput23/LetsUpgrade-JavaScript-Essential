@@ -32,3 +32,8 @@
 - [Day 5 Summary](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day5/README.md)
 - [Day 5 Assignments](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/tree/main/Day5/Day%205%20Assignments)
 
+# DAY 06 AGENDA 
+**Superhero Project**
+- [Day 6 Lecture](https://youtu.be/htkiaHVCFmg)
+- [Day 6 Summary](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day6/README.md)
+- [Superhero Project](https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/tree/main/Day6/Superhero%20Project)
