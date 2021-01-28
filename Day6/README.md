@@ -20,3 +20,8 @@
 - To delete values from the table we have used the splice() method. splice has two parameters that is index and no. of values to be deleted.
 
 **Example: splice ( index , 1 );**
+
+**Superhero Project**
+
+
+<img src="https://github.com/kishanrajput23/LetsUpgrade-JavaScript-Essential/blob/main/Day6/Superhero%20Project/Superhero.png" alt="">
