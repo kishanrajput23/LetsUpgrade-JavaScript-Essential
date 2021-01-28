@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+   <html lang="en">
+ <head>
+ <title>Superhero</title>
+ <style>
+    *{
+    margin:0px;
+    padding:0px;
+    }
+  .container {
+ width:80%;
+ padding-top: 20px;
+ padding-bottom: 20px;
+  margin-left:10%;
+ margin-top:20px;
+ font-family: Helvetica;
+ padding-left: 10px;
+  padding-right:10px;
+color:gray;
+   }
+  .table {
+  width:100%;
+margin-top:20px;
+ font-size: 20px;          
+   }
+  th,td {
+ height: 40px;     
+ border:1px solid gray;
+ text-align: center;
+ td {
+ font-size:18px;
+ .addform {
+  width:100%;
+  padding:10px;
+  margin-top:20px;
+   }
+ .inp {
+width:45%;
+height: 30px;
+ display: inline-block;
+  margin:5px;
+  }
+   input {
+  width:100%;
+  height: 30px;
+ text-indent:10px;
+    }
+ button {
+  padding:5px;
+   } 
+  </style>
+  </head>
+        <body>
+            <div class="container">
+            <h1>Superheroes</h1>
+          <div class="addform">
+            <div class="inp">
+                <input type="text" placeholder="Name" id="name"/>    
+            </div>
+            <div class="inp">
+                <input type="number" placeholder="Age" id="age"/>    
+            </div>
+            <div class="inp">
+                <input type="text" placeholder="Planet" id="planet"/>    
+            </div>
+            <div class="inp">
+                <input type="text" placeholder="Weapons (w1,w1...wn)" id="weapons"/>                    
+            </div>
+            <div class="inp">
+                <button onclick="addSuperhero()">Add Superhero</button>                
+            </div>
+        </div>
+        
+        <table class="table" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Planet</th>
+                    <th>Weapons</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="data">
+            </tbody>
+        </table>
+    </div>
+    
+    <script src="superhero.js"></script>
+        </body>
+</html>
